@@ -1,0 +1,25 @@
+{
+  "name": "powerdash",
+  "version": "1.0.0",
+  "description": "Lodash utility package combined with more useful string utilities",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "string.js",
+    "underscore.string",
+    "underscore",
+    "utility",
+    "javascript"
+  ],
+  "author": "Kristian Mandrup",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.6",
+    "lodash-addons": "^1.0.0",
+    "string": "^3.3.3",
+    "underscore.string": "^3.3.4"
+  }
+}
