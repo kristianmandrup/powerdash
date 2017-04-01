@@ -1,5 +1,7 @@
 # Power utility pack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/powerdash.svg)](https://greenkeeper.io/)
+
 Combines the following javascript utility packs under one roof:
 - [lodash](lodash.com)
 - [lodash-addons](https://www.npmjs.com/package/lodash-addons)
